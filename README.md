@@ -1,6 +1,6 @@
 Install required libraries to run the script.
 ```
-sudo apt=get update
+sudo apt-get update
 sudo apt-get install pkg-config libcurlpp-dev libcurl4-openssl-dev nlohmann-json-dev
 ```
 
