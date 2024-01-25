@@ -9,10 +9,6 @@
 using namespace std;
 using json = nlohmann::json;
 
-void setup(){
-    cout << "Application launched!" << endl;
-}
-
 json loop(json& j){
     
     curlpp::Cleanup myCleanup;
